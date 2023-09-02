@@ -1,2 +1,2 @@
 # Tolvugrafik
-Verkefni og WebGL 
+Verkefni og fleira úr Tölvugrafík
